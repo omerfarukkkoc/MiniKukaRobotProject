@@ -1,2 +1,2 @@
-# miniKukaRobotProject
-Arduino miniKuka Robot Projesi
+# MiniKukaRobotProject
+Arduino miniKuka Robot Project
